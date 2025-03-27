@@ -39,7 +39,7 @@ class SplashScreen extends StatelessWidget {
                 const Spacer(),
                 Image.asset(
                   'assets/images/palengke_panic_title.png',
-                  width: MediaQuery.of(context).size.width * 0.9,
+                  width: MediaQuery.of(context).size.width * 0.7,
                   fit: BoxFit.contain,
                 ),
                 const SizedBox(height: 60),
